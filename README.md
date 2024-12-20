@@ -1,4 +1,4 @@
-Rodando no linux ubuntu 24.04.
+Rodando no linux mint 22
 
 Intall python3 
 
@@ -7,8 +7,6 @@ sudo apt-get install python3
 sudo apt-get install python3-reportlab
 
 sudo apt-get install python3-pillow
-
-sudo apt-get install python3-reportlab
 
 sudo apt-get install python3-fpdf
 
